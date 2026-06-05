@@ -1,10 +1,15 @@
-# KUSITMS 33RD 밋업 프로젝트 - GLIT
+# 기록할수록 선명해지는 나만의 커리어, 글릿✨
 
 > 하루 5분 커리어 기록 서비스 **GLIT** 입니다! <br />
 > 소셜 로그인 → 온보딩 → 스크럼·STAR 기록 → 캘린더 → AI 역량 리포트로 이어지는 사용자 경험을 제공합니다. <br />
 > [⚡️ 서비스 링크 바로 이동하기](https://glit.today)
 
 <img width="1920" height="1080" alt="cover" src="https://github.com/user-attachments/assets/2dcccdd4-68e3-44b2-a36d-ecf836cf1018" />
+<img width="1920" height="1080" alt="21" src="https://github.com/user-attachments/assets/85ea0d6b-3e1f-4d94-a7b7-0016e91de346" />
+<img width="1920" height="1080" alt="22" src="https://github.com/user-attachments/assets/c637f9b1-88e3-440f-8df1-31deb65a0138" />
+<img width="1920" height="1080" alt="23" src="https://github.com/user-attachments/assets/9bf529bc-c42e-491e-9a98-e3e71e8c2a05" />
+<img width="1920" height="1080" alt="24" src="https://github.com/user-attachments/assets/98585928-2061-4490-bd5d-826c665b5491" />
+<img width="1920" height="1080" alt="25" src="https://github.com/user-attachments/assets/dadff8c4-af52-4a5c-bea8-a0dccd8b6e59" />
 
 ---
 
@@ -31,5 +36,5 @@
 
 | <img src="https://github.com/gyesswhat.png" width="200" height="200"/> | <img src="https://github.com/parkdo0918.png" width="200" height="200"/> | <img src="https://github.com/hyhy-j.png" width="200" height="200"/> |
 | :---------------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------------: |
-|        김겨례 <br/> [@gyesswhat](https://github.com/gyesswhat)        |          박도현 <br/> [@parkdo0918](https://github.com/parkdo0918)          |         이현정 <br/> [@hyhy-j](https://github.com/hyhy-j)          |
+|        김겨레 <br/> [@gyesswhat](https://github.com/gyesswhat)        |          박도현 <br/> [@parkdo0918](https://github.com/parkdo0918)          |         이현정 <br/> [@hyhy-j](https://github.com/hyhy-j)          |
 |                            **Backend Lead**                            |                            **Backend**                             |                             **Backend**                             |
