@@ -54,7 +54,7 @@
     <td align="center">
       <img src="https://github.com/gyesswhat.png" width="200" alt="김겨레 GitHub Avatar" /><br/>
       <a href="https://github.com/gyesswhat"><b>김겨레</b></a><br/>
-      <sub>Dev Lead · Backend Lead</sub>
+      <sub>Dev Lead · <br /> Backend Lead</sub>
     </td>
     <td align="center">
       <img src="https://github.com/parkdo0918.png" width="200" alt="박도현 GitHub Avatar" /><br/>
