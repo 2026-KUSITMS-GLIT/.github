@@ -28,13 +28,43 @@
 ---
 
 ## 👥 팀원
+### Team. 옥동자
 
-| <img src="https://github.com/yewon20804.png" width="200" height="200"/> | <img src="https://github.com/waldls.png" width="200" height="200"/> | <img src="https://github.com/seyun31.png" width="200" height="200"/> |
-| :---------------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------------: |
-|        김예원 <br/> [@yewon20804](https://github.com/yewon20804)        |          박유민 <br/> [@waldls](https://github.com/waldls)          |         임세윤 <br/> [@seyun31](https://github.com/seyun31)          |
-|                            **Frontend Lead**                            |                            **Frontend**                             |                             **Frontend**                             |
-
-| <img src="https://github.com/gyesswhat.png" width="200" height="200"/> | <img src="https://github.com/parkdo0918.png" width="200" height="200"/> | <img src="https://github.com/hyhy-j.png" width="200" height="200"/> |
-| :---------------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------------: |
-|        김겨레 <br/> [@gyesswhat](https://github.com/gyesswhat)        |          박도현 <br/> [@parkdo0918](https://github.com/parkdo0918)          |         이현정 <br/> [@hyhy-j](https://github.com/hyhy-j)          |
-|                            **Backend Lead**                            |                            **Backend**                             |                             **Backend**                             |
+<table>
+  <tr>
+    <th align="center" colspan="3">Frontend</th>
+    <th align="center" colspan="3">Backend</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/yewon20804.png" width="200" alt="김예원 GitHub Avatar" /><br/>
+      <a href="https://github.com/yewon20804"><b>김예원</b></a><br/>
+      <sub>Frontend Lead</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/waldls.png" width="200" alt="박유민 GitHub Avatar" /><br/>
+      <a href="https://github.com/waldls"><b>박유민</b></a><br/>
+      <sub>Frontend</sub>
+    </td>
+     <td align="center">
+      <img src="https://github.com/seyun31.png" width="200" alt="임세윤 GitHub Avatar" /><br/>
+      <a href="https://github.com/seyun31"><b>임세윤</b></a><br/>
+      <sub>Frontend</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gyesswhat.png" width="200" alt="김겨레 GitHub Avatar" /><br/>
+      <a href="https://github.com/gyesswhat"><b>김겨레</b></a><br/>
+      <sub>Dev Lead · Backend Lead</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/parkdo0918.png" width="200" alt="박도현 GitHub Avatar" /><br/>
+      <a href="https://github.com/parkdo0918"><b>박도현</b></a><br/>
+      <sub>Backend</sub>
+    </td>
+      <td align="center">
+      <img src="https://github.com/hyhy-j.png" width="200" alt="이현정 GitHub Avatar" /><br/>
+      <a href="https://github.com/hyhy-j"><b>이현정</b></a><br/>
+      <sub>Backend</sub>
+    </td>
+  </tr>
+</table>
